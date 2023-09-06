@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  min-height: 100%;
+  margin: 0;
+}
+body {
+  background-image: url("src/assets/img/v996-026.jpg");
+  background-repeat: no-repeat;
+  background-color: #d8dbdb;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+i {
+  margin-right: 5px;
+}
+
+.font-title {
+  color: rgb(110, 37, 3);
+  text-align: center;
+}
+
+.card-header-backgound {
+  background-color: rgb(12, 71, 138);
+}
